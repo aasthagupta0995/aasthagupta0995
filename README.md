@@ -36,24 +36,36 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats  
+## 📊 Engineering Impact & Activity  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aasthagupta7070&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Enterprise%20Projects-3+-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Modules%20Delivered-5+-purple?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthagupta7070&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/UI%20Performance-50%25%20Faster-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Latency-150ms%20Reduced-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%20Reusability-30%25%20Improved-informational?style=for-the-badge" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies  
+### 📈 Skill Focus (Interactive View)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aasthagupta7070&theme=radical&row=1&column=6" alt="trophies" />
-</p>
+<details>
+<summary><strong>🔽 Click to view skill distribution</strong></summary>
+
+```text
+React.js & Frontend Architecture     ████████████████ 90%
+TypeScript & JavaScript              ██████████████   85%
+UI Performance Optimization          █████████████    80%
+REST API Integration                 ████████████     75%
+Node.js & Backend Collaboration      ███████████      70%
+AI / OpenAI API Integration          ██████████       65%
+```
+</details>
 
 ---
 
