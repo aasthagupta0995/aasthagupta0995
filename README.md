@@ -25,7 +25,7 @@
 
 ---
 
-📄 **Resume available on request**  
+📄 **[Resume](https://drive.google.com/file/d/1syV7a9oXKn1RhZZAx-LRTHqo7lTmY9YY/view)**  
 
 ---
 
