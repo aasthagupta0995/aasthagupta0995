@@ -1,16 +1,119 @@
-## Hi there 👋
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hey!%20I'm%20Aastha%20Gupta%20👋&fontSize=35&fontAlignY=35&desc=Frontend%20Developer%20|%20React.js%20|%20TypeScript%20|%20Scalable%20Web%20Apps&descAlignY=55&descAlign=50" />
 
-<!--
-**aasthagupta0995/aasthagupta0995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aastha-gupta-frontend-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:aasthagupta0995@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/aasthagupta7070">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+💻 **Frontend Developer with 3 years of professional experience** building modern, scalable web applications.  
+⚛️ Specialized in **React.js, TypeScript, and the MERN stack**.  
+⚡ Strong focus on **performance optimization**, **real-time UI updates**, and **clean component architecture**.  
+🤖 Experience building **conversational interfaces** integrated with the **OpenAI API**.  
+🎯 Passionate about delivering **enterprise-grade, user-centric frontend solutions**.
+
+---
+
+📄 **Resume available on request**  
+
+---
+
+## 🛠️ Tech Arsenal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,mongodb,redux,git,github,azure,vercel,figma&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aasthagupta7070&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthagupta7070&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aasthagupta7070&theme=radical&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
+## 💼 Experience Highlight  
+
+### **Software Engineer — Emerson IT Solution, Mohali**  
+*(February 2023 – Present)*
+
+- Led development of **Service CX**, replacing a legacy system using **React and MERN stack**, improving UX and reducing service response time by **40%**.  
+- Integrated frontend applications with backend services using **REST APIs**, enabling real-time data exchange across **5+ modules**.  
+- Delivered **real-time UI updates and conversational workflows**, improving user interaction across key application flows.  
+- Built **OpenAI-powered conversational UIs**, improving response accuracy and reducing manual operational effort.  
+- Awarded **GEM (Going the Extra Mile)** for consistently exceeding delivery benchmarks.
+
+---
+
+## 🚀 Key Projects  
+
+### **Service CX Platform (Enterprise Internal Tool)**  
+- Improved UI rendering performance by **50%** and reduced development effort by **40%**.  
+- Reduced API latency by **150ms** and improved transaction speed by **25%**.  
+- Tech: React.js, TypeScript, Node.js, Docker, Material UI, MongoDB  
+
+### **Walkdown Application (PWA)**  
+- Improved usability and responsiveness by **20%**.  
+- Implemented offline data persistence and sync on reconnection.  
+- Tech: React.js, TypeScript, Node.js, Express.js, MongoDB  
+
+### **VOX Survey Web Application**  
+- Built interactive **survey-based conversational workflows**.  
+- Improved UI reusability by **30%** using reusable components.  
+- Tech: React.js, Redux Toolkit, React Query, Material UI, Azure DevOps  
+
+---
+
+## 🎓 Education  
+
+**Bachelor of Technology (B.Tech) – Computer Science**  
+Panipat Institute of Engineering and Technology (Kurukshetra University)  
+**CGPA: 8.51**  
+
+---
+
+## 🏅 Certifications & Awards  
+
+- GEM (Going the Extra Mile) Award  
+- Outstanding performance ratings (twice)  
+- Deloitte Australia – Technology Program (Forage)  
+- Advanced Prompt Engineering with ChatGPT – UpGrad  
+
+---
+
+## 🌐 Let’s Connect  
+
+📧 **Email:** [aasthagupta0995@gmail.com](mailto:aasthagupta0995@gmail.com)  
+📞 **Phone:** +91 7988830052  
+💼 **LinkedIn:** [aastha-gupta-frontend-developer](https://www.linkedin.com/in/aastha-gupta-frontend-developer/)  
+🧑‍💻 **GitHub:** [github.com/aasthagupta7070](https://github.com/aasthagupta7070)  
+
+---
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
