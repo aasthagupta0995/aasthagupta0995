@@ -124,6 +124,7 @@ Panipat Institute of Engineering and Technology (Kurukshetra University)
 📞 **Phone:** +91 7988830052  
 💼 **LinkedIn:** [aastha-gupta-frontend-developer](https://www.linkedin.com/in/aastha-gupta-frontend-developer/)  
 🧑‍💻 **GitHub:** [github.com/aasthagupta7070](https://github.com/aasthagupta7070)
+
 ⚛️ **Website:** [aastha-gupta-frontend-developer](https://aastha-gupta-frontend-developer.netlify.app/)  
    
 
