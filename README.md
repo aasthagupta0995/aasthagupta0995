@@ -12,6 +12,9 @@
   <a href="https://github.com/aasthagupta7070">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+    <a href="https://aastha-gupta-frontend-developer.netlify.app/">
+    <img src="https://img.shields.io/badge/website-green?style=for-the-badge&logo=github&logoColor=website">
+  </a>
 </p>
 
 ---
