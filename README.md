@@ -28,7 +28,8 @@
 
 ---
 
-📄 **[Resume](https://drive.google.com/file/d/1syV7a9oXKn1RhZZAx-LRTHqo7lTmY9YY/view)**  
+📄 **[Resume](https://drive.google.com/file/d/16SsQGMWqnRvg2I_z_C-4Y-zUEpKlWq8R/view)**  
+
 
 ---
 
