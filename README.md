@@ -129,7 +129,7 @@ Panipat Institute of Engineering and Technology (Kurukshetra University)
 💼 **LinkedIn:** [aastha-gupta-frontend-developer](https://www.linkedin.com/in/aastha-gupta-frontend-developer/)  
 🧑‍💻 **GitHub:** [github.com/aasthagupta7070](https://github.com/aasthagupta7070)   
 ⚛️ **Website:** [aastha-gupta-frontend-developer](https://aastha-gupta-frontend-developer.netlify.app/)  
-📄 **Resume:** [Resume](https://drive.google.com/file/d/1syV7a9oXKn1RhZZAx-LRTHqo7lTmY9YY/view)  
+📄 **Resume:** [Resume](https://drive.google.com/file/d/16SsQGMWqnRvg2I_z_C-4Y-zUEpKlWq8R/view)  
    
 
 
